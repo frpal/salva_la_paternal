@@ -1,0 +1,17 @@
+# salva_la_paternal
+
+Juego de aventura basado en texto, aparecés en una esquina desolada de la paternal 
+tenés que salvar a los viejos piolas del barrio de una muerte segura encontrando el 
+mejor sanguche de lomito completo del barrio para llevarles al centro de jubilados.
+
+Agarralo, bajalo, modificalo, hacele lo que quieras, esto es totalmente libre.
+Mandame tu version modificada/mejorada de salva_la_paternal si la llegas a hacer.
+
+Instalación:
+
+Son archivos de python, asi que si no tenés python3 instalado ya, anda a www.python.org/downloads y bajá de ahí
+la última versión para tu sistema operativo, instalala y abrí el archivo "game.py" incluido en la carpeta 
+"salva_la_paternal.zip" para empezar a jugar.
+Si no funca proba "ejecutar como administrador" o clic derecho -> abrir con ->la versión de python3 que tengas.
+
+Suerte.
